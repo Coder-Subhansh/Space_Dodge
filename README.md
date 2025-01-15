@@ -118,6 +118,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-- Your Name
+- Your Name:SUBHANSH TYAGI
 - LinkedIn: linkedin.com/in/subhansh-tyagi-2593b8321
 - GitHub: Coder-Subhansh
